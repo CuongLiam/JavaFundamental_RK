@@ -1,11 +1,11 @@
-import ss3_redo.ep1;
+import ep1.*;
 
 
 
 public class Main {
     public static void main(String[] args) {
-//        ss3ep1.ep1();
         ep1.ep1Main();
+
 
 
     }
